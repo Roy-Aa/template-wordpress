@@ -1,2 +1,2 @@
 # template-wordpress
-A default wordpress template for new projects
+A default wordpress template with tailwind v4 for new projects
